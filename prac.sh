@@ -1,1 +1,2 @@
-echo ""[Dhello world"
+#!/bin/bash
+echo "[Dhello world"
